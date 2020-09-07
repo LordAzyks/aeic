@@ -1,0 +1,4 @@
+Delta : 7531a8
+Sigma : 6e59ad
+Theta : 60a8b5
+Omega : 58d0ba
